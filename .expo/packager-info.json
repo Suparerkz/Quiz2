@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "webpackServerPort": null,
+  "expoServerNgrokUrl": "https://z2-8jt.anonymous.todolistapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.z2-8jt.anonymous.todolistapp.exp.direct",
+  "ngrokPid": 6180,
+  "packagerPort": 19001,
+  "packagerPid": 7684
+}
